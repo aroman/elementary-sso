@@ -1,0 +1,14 @@
+{
+  "name": "elementary-sso",
+  "version": "0.0.0",
+  "description": "elementary.io single-sign-on service",
+  "main": "server.js",
+  "dependencies": {
+    "oauth2orize": "~1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avi Romanoff <avi@elementaryos.org>"
+}
